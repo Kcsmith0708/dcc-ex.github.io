@@ -12,7 +12,6 @@ The primary JMRI software applications are;
  - PanelPro to create and maintain Panels, Turnouts, Sensors, Signal Lighting & create Routes
  - OperationsPro to run operating sessions on your model railroad.  
 JMRI software is supported on Windows & Mac PC’s and on Linux Pi microcontrollers.
-
 With experience JMRI users can prepare Routing and Automation sequences for their engines to run either by manual Routing or Autonomously by writing extensive Jython/Python.py scripts and setting them up through a myriad of user-friendly panels and sensors, turnouts & routing tools.  
 These scripts can then be placed in GUI buttons on DecoderPro & PanelPro main menus and also displayed as Routing buttons on smartphones with Engine Driver or WiThrottle and other WiFi Throttle App providers.
  
@@ -25,7 +24,7 @@ Have DCC++EX command references automatically shown through the DecoderPro Scrip
 You can also add user defined ATC Automatic Throttle Control Jython.py scripts to GUI buttons on DecoderPro and PanelPro main menus.
 
 .. image:: ../../_static/images/jmri/DCCEX_JMRI_Script_windows1.jpg
-   :alt: DCC++EX JMRI scripts
+   :alt: DCC++EX Commands JMRI scripts
    :scale: 25%
    :align: left
    
@@ -78,6 +77,7 @@ Other Documentation
 
 DCC Shortcuts Card
 ===================
+DCC Decoder Manufacturer Identification Codes
 
 .. image:: ../../_static/documents/dcc_shortcuts_card_thumbnail.png
    :alt: DCC Shortcuts Card Thumbnail
@@ -106,4 +106,3 @@ With DCC++EX's new linear address function, there is no need to have to convert 
    `Stationary Decoder Address Table </_static/documents/DCCpp-stationary-decoder-addresses.xlsx>`_
 
 .. rst-class:: clearer
-
