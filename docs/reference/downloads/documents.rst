@@ -104,5 +104,3 @@ With DCC++EX's new linear address function, there is no need to have to convert 
 .. rst-class:: dcclink
 
    `Stationary Decoder Address Table </_static/documents/DCCpp-stationary-decoder-addresses.xlsx>`_
-
-.. rst-class:: clearer
